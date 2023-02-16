@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.parent {
+  font-size: 70px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  width: fit-content;
+  background-image: url(https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gifhttps://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif);
+  -webkit-background-clip: text;
+  color: transparent;
+}
